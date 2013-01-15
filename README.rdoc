@@ -1,0 +1,12 @@
+= MobitelAPISender
+
+Za delovanje se rabi MobitelAPISender.exe in oba DLLja, ki sta zraven.
+vhod je datoteka mapi_in.txt:
+
+  username
+  password
+  cifre
+  ---
+  sporocilo
+
+
