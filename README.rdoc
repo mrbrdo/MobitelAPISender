@@ -9,4 +9,4 @@ Vhod je datoteka mapi_in.txt:
   ---
   sporocilo
 
-
+Zelo pomembno je da so v isti mapi kot .exe datoteka tudi .config datoteke iz Release direktorija.
